@@ -1,4 +1,4 @@
-# Sprint 2: Diseño de Pruebas - QA Engineer (TripleTen)
+# Sprint 2: Diseño de Pruebas - QA Engineer
 
 ## Introducción
 Este sprint se centra en el diseño de pruebas con enfoque en **Tablas de Decisión** y **Pruebas por Pares**. Como parte del proceso, he desarrollado **casos de prueba de equivalencia**, evaluando escenarios clave de la plataforma **Urban Routes**, en particular relacionados con la lógica de tiempo y costos para viajes.
