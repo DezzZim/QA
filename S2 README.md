@@ -15,7 +15,5 @@ Este sprint se centra en el diseño de pruebas con enfoque en **Tablas de Decisi
 - Se realizaron múltiples pruebas y escenarios cubriendo la lógica de costos y tiempos, tanto en condiciones ideales como en casos de error.
 - Se identificaron varios errores que se documentaron y se crearon enlaces a los informes de errores para su seguimiento.
 
-- QA 26 2do sprint.csv
-
 ## Conclusión
 Este sprint fue crucial para identificar posibles fallos en la lógica de costos y tiempos dentro de la plataforma Urban Routes. Con base en los resultados obtenidos, se recomienda continuar con el refinamiento de los algoritmos de cálculo de costos y la optimización de la interfaz de usuario para garantizar una experiencia de reserva fluida y precisa.
