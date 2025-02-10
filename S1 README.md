@@ -10,7 +10,7 @@ Durante este sprint, los objetivos fueron:
 - **Comprender el ciclo de vida de las pruebas.**
 - **Aprender sobre diferentes tipos de pruebas**, como pruebas unitarias, de integración y de aceptación.
 - **Establecer una base sólida en el uso de herramientas** para la automatización y la gestión de pruebas.
-- **Ejecutar y documentar pruebas manuales** en una aplicación proporcionada.
+- **Ejecutar y documentar pruebas manuales** en una aplicación proporcionada llamada "Urban Routes".
 
 ## **Tecnologías y Herramientas Utilizadas**
 
