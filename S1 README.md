@@ -14,26 +14,26 @@ Durante este sprint, los objetivos fueron:
 
 ## **Tecnologías y Herramientas Utilizadas**
 
-- **Lenguajes y herramientas**: 
-  - [Herramientas específicas que hayas utilizado, como Selenium, JUnit, etc.]
-- **Metodologías**: 
-  - Enfoque de pruebas ágiles dentro del marco de trabajo de Scrum.
+  - Marco de trabajo de Scrum.
   
 ## **Casos de Prueba y Resultados**
 
 Durante este sprint, implementé y ejecuté varios casos de prueba. A continuación, se listan algunos ejemplos clave:
 
 ### 1. **Comprobación de la funcionalidad básica de la aplicación**
+
    - **Descripción**: Verificar que los usuarios puedan registrarse correctamente en la aplicación.
-   - **Resultado**: Se encontraron errores menores relacionados con el envío del formulario de registro. [Ver detalle en el informe de errores](enlace).
+   - **Resultado**: Se encontraron errores menores relacionados con el envío del formulario de registro. 
 
 ### 2. **Verificación de campos obligatorios en el formulario**
+
    - **Descripción**: Asegurarse de que todos los campos obligatorios estén correctamente validados.
-   - **Resultado**: La validación fue exitosa, aunque hubo un pequeño fallo con la validación de contraseñas. [Ver detalle en el informe de errores](enlace).
+   - **Resultado**: La validación fue exitosa, aunque hubo un pequeño fallo con la validación de contraseñas.
 
 ## **Lecciones Aprendidas**
 
 Durante este sprint, aprendí a:
+
 - Identificar y clasificar casos de prueba efectivos.
 - Documentar los resultados y generar informes claros para el equipo de desarrollo.
 - Priorizar la corrección de errores según su impacto en la funcionalidad de la aplicación.
